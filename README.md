@@ -184,7 +184,8 @@ Here’s a quick look at how HASHMON looks in action:
 ### Hash BruteForcing Example
 ![Screenshot (25)](https://github.com/user-attachments/assets/de0ca76a-a20d-4044-8726-dcd7d30a198c)
 
-This is the WordList file "wordlist.txt":
+#### This is the WordList file "wordlist.txt":
+
 ![Screenshot (26)](https://github.com/user-attachments/assets/a1217020-8cf1-4b6b-91fe-87d0d93a3782)
 
 ---
