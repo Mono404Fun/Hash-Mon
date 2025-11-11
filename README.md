@@ -1,4 +1,4 @@
-# 🛡️ HASHMON — The Python utility for hashing and bruteforcing](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+# 🛡️ HASHMON — The Python utility for hashing and bruteforcing
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?logo=windows)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Project-Active-brightgreen)
